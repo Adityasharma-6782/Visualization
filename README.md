@@ -57,33 +57,49 @@ From basic charts to advanced interactive dashboards, this repository covers mul
 
 The foundation of Python data visualization.
 
-Topics:
+**Topics:**
 
 * Basic Plotting
 * Figure Customization
 * Multiple Charts
 * Styling
+* Subplots
+
+### 📌 Seaborn
+
+A high-level statistical visualization library built on top of Matplotlib.
+
+**Topics:**
+
+* Distribution Plots
+* Categorical Plots
+* Heatmaps
+* Pairplots
+* Regression Plots
+* Statistical Data Visualization
 
 ### 📌 Plotly
 
 Interactive and web-ready visualizations.
 
-Topics:
+**Topics:**
 
 * Interactive Charts
 * Hover Information
 * Zoom & Pan
+* Dynamic Visualizations
 * Dashboard Components
 
 ### 📌 Cufflinks
 
 Bringing Plotly and Pandas together.
 
-Topics:
+**Topics:**
 
 * Interactive DataFrame Visualization
 * Quick Chart Generation
 * Business Dashboards
+* Plotly-Pandas Integration
 
 ---
 
