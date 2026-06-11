@@ -121,6 +121,21 @@ Python-Visualization/
 │
 └── README.md
 ```
+
+---
+### 📊 Visualization Practice
+
+
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/605c0a0f-54fc-46a9-9132-3a4c7ce092f5" />
+
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/b1a220fb-2437-4a71-b7e5-0d818a169d76" />
+
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/82f161f5-6de7-4d2c-90be-0091b895cb46" />
+
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/1cba5724-3190-4323-b7dc-dba1e47df360" />
+
+---
+
 ---
 
 ### 🏏 IPL Data Analysis Capstone Project
@@ -146,9 +161,9 @@ A comprehensive data visualization and exploratory data analysis project based o
 
 **Visuals**
 
-<img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/a17a2720-7708-47ec-a456-21df11433089" />
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/449dd4d9-a7b6-4f21-a187-759da0c8b803" />
 
-<img width="684" height="414" alt="image" src="https://github.com/user-attachments/assets/151bdfdc-e0a3-4e01-8bb8-8c9bd9ad74ce" />
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/151bdfdc-e0a3-4e01-8bb8-8c9bd9ad74ce" />
 
 ---
 
