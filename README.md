@@ -122,6 +122,27 @@ Python-Visualization/
 └── README.md
 ```
 
+### 🏏 IPL Data Analysis Capstone Project
+
+A comprehensive data visualization and exploratory data analysis project based on Indian Premier League (IPL) datasets.
+
+**Key Objectives:**
+
+* Analyze team performances
+* Identify top-performing players
+* Study batting and bowling statistics
+* Discover season-wise trends
+* Visualize match outcomes and insights
+
+**Concepts Used:**
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistical Analysis
+* Feature Engineering
+* Interactive Charts
+
 ---
 
 ## 🎯 Learning Objectives
