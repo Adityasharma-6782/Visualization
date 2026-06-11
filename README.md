@@ -1,4 +1,4 @@
-# 📊 Python Data Visualization Mastery
+# 📊 Python Data Visualization
 
 > Exploring the art of turning data into insights using powerful Python visualization libraries.
 
