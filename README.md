@@ -121,6 +121,7 @@ Python-Visualization/
 │
 └── README.md
 ```
+---
 
 ### 🏏 IPL Data Analysis Capstone Project
 
