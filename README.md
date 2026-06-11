@@ -144,6 +144,11 @@ A comprehensive data visualization and exploratory data analysis project based o
 * Feature Engineering
 * Interactive Charts
 
+**Visuals**
+<img width="688" height="76" alt="image" src="https://github.com/user-attachments/assets/a17a2720-7708-47ec-a456-21df11433089" />
+
+<img width="684" height="414" alt="image" src="https://github.com/user-attachments/assets/151bdfdc-e0a3-4e01-8bb8-8c9bd9ad74ce" />
+
 ---
 
 ## 🎯 Learning Objectives
@@ -201,4 +206,3 @@ Currently exploring:
 ---
 
 ⭐ If you find this repository useful, consider giving it a star and following my learning journey.
-<img width="753" height="494" alt="image" src="https://github.com/user-attachments/assets/b3309b3a-bf07-44a5-bbe8-e87c64a485f4" />
